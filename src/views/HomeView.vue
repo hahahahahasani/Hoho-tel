@@ -49,7 +49,7 @@ const openModal = (hotel) => {
     </section>
 
     <!-- Trending Hotels -->
-    <section class="section bg-light">
+    <section class="section bg-light" id="trending">
       <div class="content">
         <div class="section-header">
           <h2>Top trending hotel in worldwide</h2>
@@ -92,7 +92,7 @@ const openModal = (hotel) => {
     </section>
 
     <!-- Promo -->
-    <section class="section">
+    <section class="section" id="promo">
       <div class="content">
         <h2>Get promo for a cheaper price</h2>
         <p class="section-subtitle">Save more with our exclusive deals</p>
@@ -106,7 +106,7 @@ const openModal = (hotel) => {
     <PartnerLogos />
 
     <!-- Contact Us -->
-    <section class="section">
+    <section class="section" id="contact">
       <div class="content">
         <div class="contact-header">
           <h2>Get in Touch with Us</h2>

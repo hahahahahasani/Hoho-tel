@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="hero">
+  <section class="hero" id="hero">
     <div class="hero-background"></div>
     <div class="hero-overlay"></div>
     
